@@ -34,3 +34,12 @@
 .container .card {
     margin-top: 20px;
 }
+
+#jobpost :hover {
+    background-color: #F8F9FA;
+}
+
+#apply-button:hover {
+    background-color: lightgrey;
+    color: black;
+}
