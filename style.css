@@ -1,0 +1,36 @@
+/* Hero*/
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://img.freepik.com/premium-vector/businesspeople-discussing-during-meeting-business-people-working-together-modern-office-teamwork-concept_48369-42853.jpg?w=1380");
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text h1 {
+    text-align: center;
+    margin-top: 10vh;
+    color: white;
+}
+
+.hero-text p {
+    text-align: center;
+    margin-top: 1vh;
+    color: white;
+}
+
+.center-btn {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Card Content */
+.badge {
+    margin-left: 5px;
+}
+
+.container .card {
+    margin-top: 20px;
+}
